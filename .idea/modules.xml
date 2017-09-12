@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/play-with-java9.iml" filepath="$PROJECT_DIR$/.idea/play-with-java9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/play-with-java9_main.iml" filepath="$PROJECT_DIR$/.idea/modules/play-with-java9_main.iml" group="play-with-java9" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/play-with-java9_test.iml" filepath="$PROJECT_DIR$/.idea/modules/play-with-java9_test.iml" group="play-with-java9" />
     </modules>
   </component>
 </project>
